@@ -1,0 +1,9 @@
+D:\Projects\VSProj\MatrixDet\MatrixDet\bin\Debug\MatrixDet.exe.config
+D:\Projects\VSProj\MatrixDet\MatrixDet\bin\Debug\MatrixDet.exe
+D:\Projects\VSProj\MatrixDet\MatrixDet\bin\Debug\MatrixDet.pdb
+D:\Projects\VSProj\MatrixDet\MatrixDet\obj\Debug\MatrixDet.csprojResolveAssemblyReference.cache
+D:\Projects\VSProj\MatrixDet\MatrixDet\obj\Debug\MatrixDet.exe
+D:\Projects\VSProj\MatrixDet\MatrixDet\obj\Debug\MatrixDet.pdb
+D:\Projects\VSProj\.Git Repositories\MatrixDet\MatrixDet\bin\Debug\MatrixDet.exe.config
+D:\Projects\VSProj\.Git Repositories\MatrixDet\MatrixDet\obj\Debug\MatrixDet.exe
+D:\Projects\VSProj\.Git Repositories\MatrixDet\MatrixDet\obj\Debug\MatrixDet.pdb
